@@ -1,7 +1,6 @@
 # Simulação do problema do Cubo for devs
 
 ## Descrição
----
 
 Simulação onde temos 6 fake API's (representadas por 6 funções) onde, cada uma retorna um objeto contendo o local de embarque, local de destino, horario de saída, horário de chegada e valor da passagem.
 
